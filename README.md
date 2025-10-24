@@ -2,7 +2,22 @@
 
 This is a theme created from the evangelion series color palette, for now there is only the EVA 01 color palette, in the future it is planned to add new color palettes from the other evas.
 
+## Installation
+
+### For Visual Studio Code
+
 To install this theme you can go to [Visual Studio Marketplace Extension Link](https://marketplace.visualstudio.com/items?itemName=RuDevIO.evangelion-theme)
+
+### For IntelliJ IDEA / GoLand / JetBrains IDEs
+
+IntelliJ color schemes are now available! See the [intellij-themes](./intellij-themes/) directory for installation instructions.
+
+Quick installation:
+1. Copy the `.icls` files from `intellij-themes/` to your IDE's colors directory
+2. Restart your IDE
+3. Go to Settings → Editor → Color Scheme and select an Evangelion theme
+
+For detailed instructions, see [intellij-themes/README.md](./intellij-themes/README.md)
 
 # News
 
